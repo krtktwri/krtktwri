@@ -7,4 +7,4 @@ I am Kartik. You can find out more about my work, interests and life on [my pers
 - 👯 If you have an interesting project idea related to astrophysics or computational philosophy (mainly formal logic, time and linguistics), do reach out to me.
 - 📫 Best way to contact me is to send me an email. I rarely check messages on my social media. 
 
-Finally, I mantain a [public reading list](https://kartiktiwari.notion.site/3617ac542318400eb9b9c650c2f071fe?v=662692b58eed4e5cbd3401c5d8d0be46) which you might find interesting. 
+Finally, I maintain a [public reading list](https://kartiktiwari.notion.site/3617ac542318400eb9b9c650c2f071fe?v=662692b58eed4e5cbd3401c5d8d0be46) which you might find interesting. 

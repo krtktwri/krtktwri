@@ -3,7 +3,7 @@
 I am Kartik. You can find out more about my work, interests and life on [my personal website](https://kartiktiwari.in/)
 
 - 🔭 I work on computational astrophysics, philosophy of physics and formal systems. 
-- 🌱 Currently, I am investigating high-energy environments near neutron stars. I also spend considerable time learning about Numerical Relativity.
+- 🌱 Currently, I am predicting polarization signatures from neutron stars observations. I also spend considerable time learning about Numerical Relativity.
 - 👯 If you have an interesting project idea related to astrophysics or computational philosophy (mainly formal logic, time and linguistics), do reach out to me.
 - 📫 Best way to contact me is to send me an email. I rarely check messages on my social media. 
 
